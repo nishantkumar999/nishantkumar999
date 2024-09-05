@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-nishantkumar999/nishantkumar999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nishantkumar999/nishantkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
